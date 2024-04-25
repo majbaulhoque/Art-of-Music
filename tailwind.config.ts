@@ -17,6 +17,8 @@ function addVariablesForColors({ addBase, theme }: any) {
   });
 }
 
+// This plugin added for svg pattern
+
 function addSvgPatterns({ matchUtilities, theme }: any) {
   matchUtilities(
     {
